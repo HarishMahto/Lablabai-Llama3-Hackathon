@@ -19,8 +19,11 @@
 
 
 <h1 align="center">
+  
+## Problem Statement
+Traditional storytelling and educational methods lack engagement and interactivity, leading to reduced comprehension and diminished user interest.
 
-## Description	
+## Solution
 Our app leverages Llama 3 to revolutionize storytelling by converting texts into animated visual stories, making narratives more engaging, interactive, and visually appealing.
 
 ## App Overview
