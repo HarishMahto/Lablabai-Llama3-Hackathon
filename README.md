@@ -1,4 +1,21 @@
 # Lablabai-Llama3-Hackathon
+# Team name: 8Bits Invades
+
+<!-- Contributor 1 -->
+<a href="https://github.com/HarishMahto">
+  <img src="https://github.com/HarishMahto.png" width="50" height="50" alt="Contributor 1">
+</a>
+
+<!-- Contributor 2 -->
+<a href="https://github.com/Somie12">
+  <img src="https://github.com/Somie12.png" width="50" height="50" alt="Contributor 2">
+</a>
+
+
+<!-- Contributor 3 -->
+<a href="https://github.com/Diksha566">
+  <img src="https://github.com/Diksha566.png" width="50" height="50" alt="Contributor 3">
+</a>
 
 
 <h1 align="center">
@@ -35,4 +52,4 @@ Our app leverages Llama 3 to revolutionize storytelling by converting texts into
 - Technological Advancements: Enhanced AI features and AR integration.
 - Global Reach: Localize content for international markets
 
-# Dependencies
+
