@@ -1,5 +1,6 @@
 # Lablabai-Llama3-Hackathon
-# Team name: 8Bits Invades
+# Team name: 8bit Invaders
+# Project name: TaleCraft
 
 <!-- Contributor 1 -->
 <a href="https://github.com/HarishMahto">
