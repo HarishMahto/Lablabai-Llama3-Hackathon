@@ -34,7 +34,7 @@ Our app leverages Llama 3 to revolutionize storytelling by converting texts into
 
 ## Tech stacks Lite 💻
 * Python, huggingface, api, kotlin, android studio, cuda, anaconda
-* 
+  
 
 
 
