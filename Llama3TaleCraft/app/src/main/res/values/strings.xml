@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Llama3 Tale Craft</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Story Writer</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Write your imagination</string>
+    <string name="image1_description">Anime Boy</string>
+    <string name="image2_description">Superman</string>
+    <string name="image3_description">Pirates</string>
+    <string name="results_placeholder">(Story will appear here)</string>
+</resources>
