@@ -29,7 +29,7 @@ import java.util.Map;
 public class Llama3 extends AppCompatActivity {
 
     private TextView textView;
-    private String stringToken = "LL-0Vn8S7pvpOPe4s2RMTxgydcqQqctmWEpuIitas17MtjJtawgH0DuHrFlJvbZ6fxr";
+    private String stringToken = "API KEY";
     private String stringURLEndPoint = "https://api.llama-api.com/chat/completions";
 
     @Override
