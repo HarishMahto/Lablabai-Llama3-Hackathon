@@ -52,9 +52,9 @@ Our app leverages Llama 3 to revolutionize storytelling by converting texts into
 You can view our detailed presentation [here](https://lablab.ai/event/llama-3-ai-hackathon/8bit-invaders/tale-craft-convert-your-imagination-to-animation?review=true).
 
 ## Judges' Review
-![Judges' Review Image 1](<img width="404" alt="review_1" src="https://github.com/user-attachments/assets/190874c8-eec1-43a2-b222-9baa7a89f77c">
-)
-![Judges' Review Image 2](<img width="406" alt="review_2" src="https://github.com/user-attachments/assets/84a4cf55-8e40-4834-a011-6ec416fd1714">
-)
+
+![Review Image 1](https://raw.githubusercontent.com/Somie12/Lablabai-Llama3-Hackathon/main/Llama3TaleCraft/review_1.png)
+
+![Review Image 2](https://raw.githubusercontent.com/Somie12/Lablabai-Llama3-Hackathon/main/Llama3TaleCraft/review_2.png)
 
 
